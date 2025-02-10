@@ -1,7 +1,12 @@
- **Some Img of the full on working page <br>
- Sorry for not having a public server** <br> <br>
-**Algunas fotos de la pagina en funcionamiento <br>
- Perdon por no tener la pagina en un server publico** <br> <br>
+Access the page: [Here](https://cuzzi-i.github.io/Survey-Form/)
+
+Accede a la página: [Aqui!](https://cuzzi-i.github.io/Survey-Form/)
+
+
+
+
+ **Some Img of the full on working page** <br> <br>
+**Algunas fotos de la pagina en funcionamiento** <br> <br>
 
 
 ![IMG-1](https://i.imgur.com/c4CL50r.png)
